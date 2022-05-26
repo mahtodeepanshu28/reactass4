@@ -1,0 +1,21 @@
+#back{
+    height: 50px;
+    width: 100%;
+    background-color:  rgb(180, 188, 224);
+    display: flex;
+}
+#f{
+ position: relative;
+ top: 20px;
+ left: 400px;   
+}
+#S{
+    position: relative;
+    top: 20px;
+    left: 550px;   
+   }
+ #T{
+    position: relative;
+    top: 20px;
+    left:700px;   
+   }
